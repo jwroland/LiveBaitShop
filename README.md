@@ -19,7 +19,7 @@ Features include an embedded YouTube fishing tutorial, a Google Map, and a conta
 ---
 
 ### 🖼️ Screenshot
-![Screenshot of Live Bait Shop](Screenshot 2025-11-04 065616.png)
+![Screenshot of Live Bait Shop](screenshot.png)
 
 ---
 
